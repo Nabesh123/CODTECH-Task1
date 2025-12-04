@@ -36,4 +36,3 @@ segments based on purchasing behavior.
 **KMeans:** KMeans is used for future warning 
 
 
-![Screenshot_6-7-2024_20242_](https://github.com/Nabesh123/CODETECH-TASK1/assets/136348129/9bac8ff0-8219-40a2-8bea-a0f5a02c6ecb)
